@@ -4,8 +4,6 @@ body {
     padding: 50px;
     font-size: 15px;
     font-family: Lucida Sans Unicode sans-serif;
-    
-   
 }
 
 h2 {
@@ -37,8 +35,8 @@ h2 {
     font-family: sans-serif;
     font-size: 20px;
     line-height: 50px;
-    
-    
+
+
 }
 
 .sidebar-1 {
@@ -174,68 +172,69 @@ h2 {
     font-family: "Franklin Gothic Heavy"sans-serif;
     font-size: 25px;
 }
+
 .content-1:hover {
     -webkit-transform: scale(1.2);
     -ms-transform: scale(1.2);
     transform: scale(1.2);
-  }
+}
 
-  .sidebar-1:hover {
+.sidebar-1:hover {
     -webkit-transform: scale(1.2);
     -ms-transform: scale(1.2);
     transform: scale(1.2);
-  }
+}
 
-  .sidebar-2:hover {
+.sidebar-2:hover {
     -webkit-transform: scale(1.2);
     -ms-transform: scale(1.2);
     transform: scale(1.2);
-  }
+}
 
-  .content-2:hover {
+.content-2:hover {
     -webkit-transform: scale(1.2);
     -ms-transform: scale(1.2);
     transform: scale(1.2);
-  }
+}
 
-  .sidebar-3:hover {
+.sidebar-3:hover {
     -webkit-transform: scale(1.2);
     -ms-transform: scale(1.2);
     transform: scale(1.2);
-  }
+}
 
-  .sidebar-4:hover {
+.sidebar-4:hover {
     -webkit-transform: scale(1.2);
     -ms-transform: scale(1.2);
     transform: scale(1.2);
-  }
+}
 
-  .sidebar-5:hover {
+.sidebar-5:hover {
     -webkit-transform: scale(1.2);
     -ms-transform: scale(1.2);
     transform: scale(1.2);
-  }
+}
 
-  .content-3:hover {
+.content-3:hover {
     -webkit-transform: scale(1.2);
     -ms-transform: scale(1.2);
     transform: scale(1.2);
-  }
+}
 
-  .sidebar-6:hover {
+.sidebar-6:hover {
     -webkit-transform: scale(1.2);
     -ms-transform: scale(1.2);
     transform: scale(1.2);
-  }
+}
 
-  .sidebar-7:hover {
+.sidebar-7:hover {
     -webkit-transform: scale(1.2);
     -ms-transform: scale(1.2);
     transform: scale(1.2);
-  }
+}
 
-  .content-4:hover {
+.content-4:hover {
     -webkit-transform: scale(1.2);
     -ms-transform: scale(1.2);
     transform: scale(1.2);
-  }
+}
