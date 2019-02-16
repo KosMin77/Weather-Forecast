@@ -3,6 +3,7 @@ body {
     border: 8px solid #2B81AC;
     padding: 50px;
     font-size: 15px;
+   
 }
 
 h2 {
@@ -16,10 +17,12 @@ h2 {
 
 .wrapper {
     display: flex;
+    margin: 0px 300px 0px 300px;
 }
 
 .row {
     display: flex;
+    margin: 0px 300px 0px 300px;
 }
 
 .content-1 {
@@ -110,6 +113,7 @@ h2 {
 
 .NST {
     display: flex;
+    margin: 0px 300px 0px 300px;
 }
 
 .content-3 {
@@ -152,11 +156,12 @@ h2 {
     background-color: #666699;
     color: white;
     border: 2px solid white;
-    width: 99.75%;
+    width: 57%;
     height: 100px;
     text-align: center;
     font-size: 23px;
     line-height: 50px;
+    margin: 0px 300px 0px 300px;
 }
 
 .footer {
@@ -166,5 +171,6 @@ h2 {
     text-shadow: 1px 1px 0 black;
     font-family: "Franklin Gothic Heavy"sans-serif;
     font-size: 25px;
+   
     
 }
